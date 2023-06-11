@@ -1,0 +1,1 @@
+target_include_directories (task_week5_shirel PRIVATE ${CMAKE_CURRENT_LIST_DIR})
